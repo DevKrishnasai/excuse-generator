@@ -33,7 +33,7 @@ const DisplayExcuse = () => {
         </div>
       </div>
       <div className="button-container">
-        <Link to="/excuse-generator">
+        <Link to="/">
           <button style={{ backgroundColor: "red" }}>Back To Home</button>
         </Link>
       </div>
